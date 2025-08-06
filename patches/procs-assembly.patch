@@ -1,0 +1,4 @@
+143c143
+<       .section ".text.init", #alloc, #execinstr
+---
+>       .section .text.init, "ax"

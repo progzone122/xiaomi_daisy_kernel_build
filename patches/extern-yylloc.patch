@@ -1,0 +1,4 @@
+640c640
+< YYLTYPE yylloc;
+---
+> extern YYLTYPE yylloc;
